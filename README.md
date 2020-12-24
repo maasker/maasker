@@ -6,7 +6,6 @@
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I'm interested in Python/Artificial Intelligence/Computer Vision! 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
 
