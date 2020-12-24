@@ -1,5 +1,5 @@
-# Hi there, I'm Matin  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 ## ![Welcome to my profile 🤟](Header.png) 
+# Hi there, I'm Matin  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I'm interested in Python/Artificial Intelligence/Computer Vision! 😅
