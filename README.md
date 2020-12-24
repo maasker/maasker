@@ -59,9 +59,6 @@ PhpStorm                 2 hrs 28 mins       ███░░░░░░░░�
 <p><a href="https://github.com/maasker" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/maasker" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/mrmasker/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
-
-
 [website]: http://masker.ir/
 [instagram]: https://www.instagram.com/mrmasker
 [linkedin]: https://www.linkedin.com/in/maasker/
