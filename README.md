@@ -56,12 +56,10 @@ PhpStorm                 2 hrs 28 mins       ███░░░░░░░░�
 <br />
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-&nbsp; <a href="https://twitter.com/Maaasker" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/mrmasker/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/maasker/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:masker@mail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<p><a href="https://github.com/maasker" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/maasker" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/mrmasker/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+<p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
 
 
 [website]: http://masker.ir/
