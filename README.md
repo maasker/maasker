@@ -4,7 +4,7 @@
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I'm interested in Python/Artificial Intelligence/Computer Vision! 😅
---- 
+
 ### Languages 🛠
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
