@@ -18,13 +18,14 @@
 
 ---
 
-### Contact with me 📝
+<h3> 🤝🏻 Connect with Me </h3>
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Telegram]
-
+<p align="center">
+&nbsp; <a href="https://twitter.com/Maaasker" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/mrmasker/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/maasker/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:masker@mail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 <br />
 
 ---
@@ -66,4 +67,4 @@ PhpStorm                 2 hrs 28 mins       ███░░░░░░░░�
 [website]: http://masker.ir/
 [instagram]: https://www.instagram.com/mrmasker
 [linkedin]: https://www.linkedin.com/in/maasker/
-[Telegram]: https://telegram.me/masker
+[spotify]: https://open.spotify.com/user/msghom/
