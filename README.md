@@ -1,6 +1,6 @@
  # Hi there, I'm Matin <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies.
 - 📚 I'm interested in Python/Artificial Intelligence/Computer Vision! 😅
 
 ### Languages
