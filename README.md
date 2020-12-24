@@ -1,5 +1,5 @@
-## ![Welcome to my profile 🤟](Header.png) 
 # Hi there, I'm Matin  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+## ![Welcome to my profile 🤟](Header.png) 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I'm interested in Python/Artificial Intelligence/Computer Vision! 😅
@@ -46,11 +46,10 @@ PhpStorm                 2 hrs 28 mins       ███░░░░░░░░�
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p><a href="https://github.com/maasker" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/maasker" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/mrmasker/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<p><a href="https://www.linkedin.com/in/maasker" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/mrmasker/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
  <a href="https://www.dev.to/masker/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 
 
 [website]: http://masker.ir/
 [instagram]: https://www.instagram.com/mrmasker
 [linkedin]: https://www.linkedin.com/in/maasker/
-[spotify]: https://open.spotify.com/user/msghom/
