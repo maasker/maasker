@@ -9,7 +9,7 @@ My name is Matin, I am a Computer Science Student currently working as a softwar
 - Blockchain
 - Data Science
 - Photography
-- Photoshop
+- Photoshop/Editing
 
 <br>
 <div align="center">
