@@ -1,6 +1,6 @@
 [![MastHead](https://github.com/maasker/maasker/blob/main/Uploads/Matin.png)]()
 
-My name is Matin, I am a Computer Science Student currently working as a software developer. I am passionate about AI/ML and blockchain technologies. In my spare time you will probably find me building some fun (and partially useless) programs :))
+My name is Matin, I am a Computer Science Student working as a software developer. I am passionate about AI/ML and blockchain technologies. In my spare time you'll most likely find me building some fun (and partially useless) programs :))
 
 ### I am into
 - Machine Learning
