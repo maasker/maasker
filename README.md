@@ -1,4 +1,4 @@
- # Hi there, I'm Matin <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img src="https://github.com/maasker/maasker/blob/main/Uploads/Matin.png" width="50">
 
 - 👨‍💻 I’m currently working on web development technologies.
 - 📚 I'm interested in Artificial Intelligence/Machine Learning/Crypto!
