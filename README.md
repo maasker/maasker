@@ -8,7 +8,6 @@ My name is Matin, I am a Computer Science Student currently working as a softwar
 </div>
 <br>
 
-📊 **Currently working on** 
 
 ```text
 
