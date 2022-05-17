@@ -1,4 +1,4 @@
-<img src="https://github.com/maasker/maasker/blob/main/Uploads/Matin.png" width="50">
+[![MastHead](https://github.com/maasker/maasker/blob/main/Uploads/Matin.png)]()
 
 - 👨‍💻 I’m currently working on web development technologies.
 - 📚 I'm interested in Artificial Intelligence/Machine Learning/Crypto!
