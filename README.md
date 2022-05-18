@@ -7,6 +7,7 @@ My name is Matin, I am a Computer Science Student working as a software develope
 - Cyber Security
 - Crypto Currency
 - Blockchain
+- NFT/Metaverse
 - Data Science
 - Photography
 - Photoshop/Editing
