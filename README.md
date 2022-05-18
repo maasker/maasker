@@ -19,7 +19,6 @@ My name is Matin, I am a Computer Science Student working as a software develope
 
 
 ```text
-📊 **This Week I Spent My Time On** 
 
 💬 Languages: 
 Python                      █████████████░░░░░░░░░░░░   50% 
