@@ -19,7 +19,7 @@ I am a BSc student and developer who is passionate about artificial intelligence
 <br>
 
 ```javascript
-const Matin = {
+const M45K3Я = {
   pronouns: "he" | "him",
   operatingSystems: [Ubuntu, Windows],
   skills: [Python, Java, JavaScript, HTML, CSS, Git, Docker, Linux],
@@ -27,7 +27,6 @@ const Matin = {
                         Team Leader: "HackCLub",
                         Student Member: "IEEE",
                       },
- "To become an #AI engineer ;)"		      
  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Machine Learning"
 }
 ```
