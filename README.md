@@ -21,12 +21,13 @@ I am a BSc student and developer who is passionate about artificial intelligence
 ```javascript
 const Matin = {
   pronouns: "he" | "him",
-  operating systems: [Ubuntu, Windows],
-  skills: [Python, Java, JavaScript(Beginner), HTML, CSS, Git, Docker, Linux],
+  operatingSystems: [Ubuntu, Windows],
+  skills: [Python, Java, JavaScript, HTML, CSS, Git, Docker, Linux],
   techCommunities: {
                         Team Leader: "HackCLub",
                         Student Member: "IEEE",
                       },
+ "To become an #AI engineer ;)"		      
  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Machine Learning"
 }
 ```
