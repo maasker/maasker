@@ -18,30 +18,10 @@ I am a BSc student and developer who is passionate about artificial intelligence
 </div>
 <br>
 
-
-```text
-
-💬 Languages: 
-Python                      █████████████░░░░░░░░░░░░   50% 
-Java                        ██████░░░░░░░░░░░░░░░░░░░   25%
-JavaScript                  ██████░░░░░░░░░░░░░░░░░░░   25%
-
-🔥 Editors: 
-Pycharm                     █████████████░░░░░░░░░░░░   50% 
-IntelliJ IDEA               ██████░░░░░░░░░░░░░░░░░░░   25%
-VSCode                      ██████░░░░░░░░░░░░░░░░░░░   25%
-
-💻 Operating System: 
-Ubuntu                      █████████████████████████   100%
-
-```
-<!--END_SECTION:waka-->
-
 ```javascript
 const Matin = {
   pronouns: "he" | "him",
-  Skills: [Python, Java, HTML, CSS, Git, Docker, Linux],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  Skills: [Python, Java, JavaScript(Beginner), HTML, CSS, Git, Docker, Linux],
   techCommunities: {
                         Team Leader: "HackCLub",
                         Student Member: "IEEE",
