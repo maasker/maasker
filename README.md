@@ -37,7 +37,7 @@ Ubuntu                      █████████████████�
 ```
 <!--END_SECTION:waka-->
 
-```
+```javascript
 const Matin = {
   pronouns: "he" | "him",
   Skills: [Python, Java, HTML, CSS, Git, Docker, Linux],
