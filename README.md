@@ -36,3 +36,16 @@ Ubuntu                      █████████████████�
 
 ```
 <!--END_SECTION:waka-->
+
+```
+const Matin = {
+  pronouns: "he" | "him",
+  Skills: [Python, Java, HTML, CSS, Git, Docker, Linux],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        Team Leader: "HackCLub",
+                        Student Member: "IEEE",
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on Python and Machine Learning"
+}
+```
