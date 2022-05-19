@@ -21,7 +21,8 @@ I am a BSc student and developer who is passionate about artificial intelligence
 ```javascript
 const Matin = {
   pronouns: "he" | "him",
-  Skills: [Python, Java, JavaScript(Beginner), HTML, CSS, Git, Docker, Linux],
+  operating systems: [Ubuntu, Windows],
+  skills: [Python, Java, JavaScript(Beginner), HTML, CSS, Git, Docker, Linux],
   techCommunities: {
                         Team Leader: "HackCLub",
                         Student Member: "IEEE",
