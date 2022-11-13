@@ -21,10 +21,10 @@ I am a BSc student and developer who is passionate about artificial intelligence
 ```javascript
 const M45K3Я = {
   pronouns: "he" | "him",
-  Platforms: [Linux (Ubuntu/Debian), Windows],
-  skills: [Python, Java, JavaScript, HTML, CSS, Git, Docker, Linux],
+  Platforms: [Linux (Ubuntu/Debian), Windows, macOS],
+  skills: [Python, Java, Ruby, C/C++, HTML, CSS, Git, Docker, Linux],
   techCommunities: {
-                        Team Leader: "HackCLub",
+                        Team Leader: "HackClub",
                         Student Member: "IEEE",
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Machine Learning"
