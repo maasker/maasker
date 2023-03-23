@@ -21,8 +21,8 @@ I am a BSc student and developer who is passionate about artificial intelligence
 ```javascript
 const M45K3Я = {
   pronouns: "he" | "him",
-  Platforms: [Linux (Ubuntu/Debian), Windows],
-  skills: [Python, Java, Ruby, C, Docker, Linux],
+  Platforms: [Linux (Ubuntu/Debian), macOS],
+  skills: [Python, Ruby, C, Docker, Linux, WordPress],
   techCommunities: {
                         Team Leader: "HackClub",
                         Student Member: "IEEE",
