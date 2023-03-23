@@ -22,7 +22,7 @@ I am a BSc student and developer who is passionate about artificial intelligence
 const M45K3Я = {
   pronouns: "he" | "him",
   Platforms: ["Linux (Ubuntu/Debian)", "macOS"],
-  skills: ["Python", "Ruby", "C", "Docker", "HTML/CSS", "WordPress"],
+  Interests: ["Python", "Ruby", "C", "Docker", "HTML/CSS", "WordPress"],
   techCommunities: {
                         Team Leader: "HackClub",
                         Student Member: "IEEE",
