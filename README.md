@@ -22,11 +22,11 @@ I am a BSc student and developer who is passionate about artificial intelligence
 const M45K3Я = {
   pronouns: "he" | "him",
   Platforms: ["Linux (Ubuntu/Debian)", "macOS"],
-  Interests: ["Python", "Ruby", "C", "Docker", "HTML/CSS", "WordPress"],
+  Interests: ["Python", "Ruby", "C", "Bash", "HTML/CSS", "WordPress"],
   techCommunities: {
                         Team Leader: "HackClub",
                         Student Member: "IEEE",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Python and Machine Learning"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Python and Cyber Security"
 }
 ```
