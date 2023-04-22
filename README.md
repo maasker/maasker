@@ -1,6 +1,6 @@
 [![MastHead](https://github.com/maasker/maasker/blob/main/Uploads/Matin.png)]()
 
-I'm a BSc student/developer, passionately delving into artificial intelligence and cyber security. I've honed my skills in content creation within the technology sphere, collaborating with diverse companies as a content producer over the past 8 years. Off duty, you'll catch me devising unconventional (and somewhat pointless) programs, purely for the joy of exploration.
+I'm a BSc student/developer, passionately delving into artificial intelligence and cyber security. I've honed my skills in content creation within the technology sphere, collaborating with diverse companies as a content producer over the past eight years. Off duty, you'll catch me devising unconventional (and somewhat pointless) programs, purely for the joy of exploration.
 
 ### I am into
 - Machine Learning
