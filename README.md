@@ -1,14 +1,3 @@
-[![MastHead](https://github.com/maasker/maasker/blob/main/Uploads/Matin.png)]()
-
-### I am into
-- Machine Learning
-- Computer Vision
-- Cyber Security
-- Blockchain
-- Robotics
-- Drone Technology
-- Internet of Things
-
 ```javascript
 const M45K3Я = {
   pronouns: "he" | "him",
