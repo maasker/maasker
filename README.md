@@ -1,5 +1,5 @@
 ```javascript
-const M45K3Я = {
+const MAASKER = {
   pronouns: "he" | "him",
   Platforms: ["Linux (Ubuntu/Debian)", "macOS"],
   Specialties: ["Python", "Computer Vision", "Machine Learning", "Bash", "C/C++"],
